@@ -8,3 +8,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0woy&show_icons=true&theme=tokyonight)
 
 
+![](./profile-3d-contrib/profile-green-animate.svg)
