@@ -5,7 +5,7 @@
 
 <img src="https://render.gitanimals.org/farms/0woy"/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdbsdk1030)](https://solved.ac/qkrdbsdk1030/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0woy)](https://solved.ac/0woy/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0woy&show_icons=true&theme=tokyonight)
 
